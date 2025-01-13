@@ -20,11 +20,17 @@ location, email, company, and bio.
 
 ## Installation
 
-No installation required for users.
+To install the project dependencies, run the following command:
+    
+    ```bash
+    npm install
 
 ## Usage
 
-Candidate Search is accessible from the command line.
+To start the application, run the following command:
+
+    ```bash
+    npm start
 
 ## Credits
 
